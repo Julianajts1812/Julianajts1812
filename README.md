@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @Julianajts1812
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Julianajts1812/Julianajts1812 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile
-You can click the Preview link to take a look at your changes
----
+Olá, meu nome é Juliana e recentemente entrei neste mundo da programação.
+Comecei estudando lógica de programação, depois segui estudando no VisuAlg
+Fiz um curso de Análise de Dados com Python da Geração Analítica
+Iniciei um curso de Desenvolvimento Web na Udemy onde aprendi até agora HTML, CSS, Bootstrap, JavaScript e PHP.
+Participei do curso da Kenzie Academy na Introdução á Programação com Python, e da Imersão Dev e Imersão Dados da Alura.
+Atualmente estou buscando praticar todo o conhecimento que adquiri realizando pequenos projetos.
